@@ -29,3 +29,4 @@ typing-extensions==3.7.4.3
 urllib3==1.25.7
 Werkzeug==1.0.1
 yarl==1.6.3
+version==3.23
