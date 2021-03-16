@@ -35,4 +35,4 @@ a
 add
 again
 create a new branch is quick.
-dev add message & smile
+Creating a new branch is quick & simple.
